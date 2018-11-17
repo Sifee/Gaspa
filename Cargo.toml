@@ -1,0 +1,7 @@
+[package]
+name = "Gaspa"
+version = "0.1.0"
+authors = ["lemonhx"]
+edition = "2018"
+
+[dependencies]
